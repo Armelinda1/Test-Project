@@ -1,0 +1,6 @@
+[INFO ] 2022-02-15 00:02:27.309 [main] TC01MainPage - Verify URL
+[INFO ] 2022-02-15 00:02:28.436 [main] TC01MainPage - Open URL
+[INFO ] 2022-02-15 00:02:28.497 [main] TC01MainPage - Verification Successful - The correct title is displayed on the web page.
+[INFO ] 2022-02-15 00:02:28.520 [main] TC01MainPage - Verify login
+[INFO ] 2022-02-15 00:05:28.508 [main] TC02Flights - Verify Page Results
+[INFO ] 2022-02-15 00:05:38.637 [main] TC02Flights - Verify Apply Filters

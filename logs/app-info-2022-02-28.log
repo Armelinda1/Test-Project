@@ -1,0 +1,53 @@
+[INFO ] 2022-02-28 22:20:08.729 [main] TC01OpenFacebook - Verify URL
+[INFO ] 2022-02-28 22:20:10.247 [main] TC01OpenFacebook - Open URL
+[ERROR] 2022-02-28 22:20:10.262 [main] TC01OpenFacebook - Verification Failed - An incorrect title is displayed on the web page.
+[INFO ] 2022-02-28 22:20:10.430 [main] TC03LoginPage - Enter the email.
+[INFO ] 2022-02-28 22:20:10.567 [main] TC03LoginPage - Enter the password.
+[INFO ] 2022-02-28 22:20:10.698 [main] TC03LoginPage - Click Login
+[INFO ] 2022-02-28 22:20:10.704 [main] TC03LoginPage - Verify URL
+[INFO ] 2022-02-28 22:20:36.361 [main] TC03LoginPage - Open URL
+[INFO ] 2022-02-28 22:25:37.734 [main] TC01OpenFacebook - Verify URL
+[INFO ] 2022-02-28 22:25:39.031 [main] TC01OpenFacebook - Open URL
+[ERROR] 2022-02-28 22:25:39.042 [main] TC01OpenFacebook - Verification Failed - An incorrect title is displayed on the web page.
+[INFO ] 2022-02-28 22:38:56.265 [main] TC_TestNopCommercePage - Verify URL
+[INFO ] 2022-02-28 22:38:58.015 [main] TC_TestNopCommercePage - Open URL
+[INFO ] 2022-02-28 22:39:00.260 [main] TC_TestNopCommercePage - Click Login button.
+[INFO ] 2022-02-28 22:39:00.811 [main] TC_TestNopCommercePage - Click Register button.
+[INFO ] 2022-02-28 23:38:55.485 [main] TC_TestNopCommercePage - Verify URL
+[INFO ] 2022-02-28 23:38:57.244 [main] TC_TestNopCommercePage - Open URL
+[INFO ] 2022-02-28 23:38:57.907 [main] TC_TestNopCommercePage - Click Login button.
+[INFO ] 2022-02-28 23:38:58.474 [main] TC_TestNopCommercePage - Click Register button.
+[INFO ] 2022-02-28 23:40:38.452 [main] TC_TestNopCommercePage - Verify URL
+[INFO ] 2022-02-28 23:40:40.161 [main] TC_TestNopCommercePage - Open URL
+[INFO ] 2022-02-28 23:40:40.825 [main] TC_TestNopCommercePage - Click Login button.
+[INFO ] 2022-02-28 23:40:41.364 [main] TC_TestNopCommercePage - Click Register button.
+[INFO ] 2022-02-28 23:40:41.442 [main] TC_TestNopCommercePage - Click Male radio button.
+[INFO ] 2022-02-28 23:40:41.555 [main] TC_TestNopCommercePage - Enter First Name.
+[INFO ] 2022-02-28 23:40:41.663 [main] TC_TestNopCommercePage - Enter Last Name.
+[INFO ] 2022-02-28 23:40:41.824 [main] TC_TestNopCommercePage - Enter day.
+[INFO ] 2022-02-28 23:40:41.946 [main] TC_TestNopCommercePage - Enter month.
+[INFO ] 2022-02-28 23:40:42.074 [main] TC_TestNopCommercePage - Enter year.
+[INFO ] 2022-02-28 23:40:42.204 [main] TC_TestNopCommercePage - Enter email.
+[INFO ] 2022-02-28 23:40:42.305 [main] TC_TestNopCommercePage - Enter company.
+[INFO ] 2022-02-28 23:40:42.416 [main] TC_TestNopCommercePage - Enter password.
+[INFO ] 2022-02-28 23:40:42.554 [main] TC_TestNopCommercePage - Enter confirm password.
+[INFO ] 2022-02-28 23:40:43.448 [main] TC_TestNopCommercePage - Click on Register button.
+[INFO ] 2022-02-28 23:40:44.210 [main] TC_TestNopCommercePage - Click on logout button.
+[INFO ] 2022-02-28 23:40:44.685 [main] TC_TestNopCommercePage - Click on login button.
+[INFO ] 2022-02-28 23:40:44.803 [main] TC_TestNopCommercePage - Enter email.
+[INFO ] 2022-02-28 23:40:44.917 [main] TC_TestNopCommercePage - Enter password.
+[INFO ] 2022-02-28 23:44:34.463 [main] TC_TestNopCommercePage - Verify URL
+[INFO ] 2022-02-28 23:44:36.310 [main] TC_TestNopCommercePage - Open URL
+[INFO ] 2022-02-28 23:44:36.921 [main] TC_TestNopCommercePage - Click Login button.
+[INFO ] 2022-02-28 23:44:37.471 [main] TC_TestNopCommercePage - Click Register button.
+[INFO ] 2022-02-28 23:44:37.550 [main] TC_TestNopCommercePage - Click Male radio button.
+[INFO ] 2022-02-28 23:44:37.662 [main] TC_TestNopCommercePage - Enter First Name.
+[INFO ] 2022-02-28 23:44:37.769 [main] TC_TestNopCommercePage - Enter Last Name.
+[INFO ] 2022-02-28 23:44:37.911 [main] TC_TestNopCommercePage - Enter day.
+[INFO ] 2022-02-28 23:44:38.047 [main] TC_TestNopCommercePage - Enter month.
+[INFO ] 2022-02-28 23:44:38.208 [main] TC_TestNopCommercePage - Enter year.
+[INFO ] 2022-02-28 23:44:38.344 [main] TC_TestNopCommercePage - Enter email.
+[INFO ] 2022-02-28 23:44:38.442 [main] TC_TestNopCommercePage - Enter company.
+[INFO ] 2022-02-28 23:44:38.547 [main] TC_TestNopCommercePage - Enter password.
+[INFO ] 2022-02-28 23:44:38.664 [main] TC_TestNopCommercePage - Enter confirm password.
+[INFO ] 2022-02-28 23:44:39.158 [main] TC_TestNopCommercePage - Click on Register button.

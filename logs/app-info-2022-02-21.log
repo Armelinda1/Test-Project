@@ -1,0 +1,79 @@
+[INFO ] 2022-02-21 21:40:48.845 [main] TC01MainPage - Verify URL
+[INFO ] 2022-02-21 21:40:49.883 [main] TC01MainPage - Open URL
+[INFO ] 2022-02-21 21:40:49.901 [main] TC01MainPage - Verification Successful - The correct title is displayed on the web page.
+[INFO ] 2022-02-21 21:40:49.921 [main] TC01MainPage - Verify one-way flights
+[INFO ] 2022-02-21 21:41:00.452 [main] TC02Flights - Verify Page Results
+[INFO ] 2022-02-21 21:41:12.528 [main] TC02Flights - Verify Apply Filters
+[INFO ] 2022-02-21 21:42:42.295 [main] TC01MainPage - Verify URL
+[INFO ] 2022-02-21 21:42:42.924 [main] TC01MainPage - Open URL
+[INFO ] 2022-02-21 21:42:42.959 [main] TC01MainPage - Verification Successful - The correct title is displayed on the web page.
+[INFO ] 2022-02-21 21:42:42.984 [main] TC01MainPage - Verify one-way flights
+[INFO ] 2022-02-21 21:42:53.100 [main] TC02Flights - Verify Page Results
+[INFO ] 2022-02-21 21:43:03.203 [main] TC02Flights - Verify Apply Filters
+[INFO ] 2022-02-21 21:43:23.368 [main] TC03LoginPage - Verify URL
+[INFO ] 2022-02-21 21:43:24.798 [main] TC03LoginPage - Open URL
+[ERROR] 2022-02-21 21:43:24.807 [main] TC03LoginPage - Verification Failed - An incorrect title is displayed on the web page.
+[INFO ] 2022-02-21 21:45:02.880 [main] TC01MainPage - Verify URL
+[INFO ] 2022-02-21 21:45:04.350 [main] TC01MainPage - Open URL
+[ERROR] 2022-02-21 21:45:04.362 [main] TC01MainPage - Verification Failed - An incorrect title is displayed on the web page.
+[INFO ] 2022-02-21 21:45:04.373 [main] TC01MainPage - Verify one-way flights
+[INFO ] 2022-02-21 21:45:14.503 [main] TC02Flights - Verify Page Results
+[INFO ] 2022-02-21 21:45:24.568 [main] TC02Flights - Verify Apply Filters
+[INFO ] 2022-02-21 21:45:34.742 [main] TC03LoginPage - Enter the email.
+[INFO ] 2022-02-21 21:45:34.864 [main] TC03LoginPage - Enter the password.
+[INFO ] 2022-02-21 21:45:44.958 [main] TC03LoginPage - Verify URL
+[INFO ] 2022-02-21 21:45:45.588 [main] TC03LoginPage - Open URL
+[ERROR] 2022-02-21 21:45:45.602 [main] TC03LoginPage - Verification Failed - An incorrect title is displayed on the web page.
+[INFO ] 2022-02-21 21:48:34.807 [main] TC01MainPage - Verify URL
+[INFO ] 2022-02-21 21:48:36.224 [main] TC01MainPage - Open URL
+[ERROR] 2022-02-21 21:48:36.236 [main] TC01MainPage - Verification Failed - An incorrect title is displayed on the web page.
+[INFO ] 2022-02-21 21:48:36.248 [main] TC02Flights - Verify Page Results
+[INFO ] 2022-02-21 21:48:46.318 [main] TC02Flights - Verify Apply Filters
+[INFO ] 2022-02-21 21:48:56.514 [main] TC03LoginPage - Enter the email.
+[INFO ] 2022-02-21 21:48:56.629 [main] TC03LoginPage - Enter the password.
+[INFO ] 2022-02-21 21:49:06.717 [main] TC03LoginPage - Verify URL
+[INFO ] 2022-02-21 21:49:07.398 [main] TC03LoginPage - Open URL
+[ERROR] 2022-02-21 21:49:07.412 [main] TC03LoginPage - Verification Failed - An incorrect title is displayed on the web page.
+[INFO ] 2022-02-21 21:50:20.516 [main] TC01MainPage - Verify URL
+[INFO ] 2022-02-21 21:50:21.935 [main] TC01MainPage - Open URL
+[ERROR] 2022-02-21 21:50:21.947 [main] TC01MainPage - Verification Failed - An incorrect title is displayed on the web page.
+[INFO ] 2022-02-21 21:50:22.140 [main] TC03LoginPage - Enter the email.
+[INFO ] 2022-02-21 21:50:22.333 [main] TC03LoginPage - Enter the password.
+[INFO ] 2022-02-21 21:50:32.410 [main] TC03LoginPage - Verify URL
+[INFO ] 2022-02-21 21:50:33.006 [main] TC03LoginPage - Open URL
+[ERROR] 2022-02-21 21:50:33.015 [main] TC03LoginPage - Verification Failed - An incorrect title is displayed on the web page.
+[INFO ] 2022-02-21 21:55:25.864 [main] TC01OpenFacebook - Verify URL
+[INFO ] 2022-02-21 21:55:27.513 [main] TC01OpenFacebook - Open URL
+[ERROR] 2022-02-21 21:55:27.526 [main] TC01OpenFacebook - Verification Failed - An incorrect title is displayed on the web page.
+[INFO ] 2022-02-21 21:55:27.719 [main] TC03LoginPage - Enter the email.
+[INFO ] 2022-02-21 21:55:27.919 [main] TC03LoginPage - Enter the password.
+[INFO ] 2022-02-21 21:55:38.031 [main] TC03LoginPage - Verify URL
+[INFO ] 2022-02-21 21:55:38.533 [main] TC03LoginPage - Open URL
+[ERROR] 2022-02-21 21:55:38.543 [main] TC03LoginPage - Verification Failed - An incorrect title is displayed on the web page.
+[INFO ] 2022-02-21 21:57:11.044 [main] TC01OpenFacebook - Verify URL
+[INFO ] 2022-02-21 21:57:12.407 [main] TC01OpenFacebook - Open URL
+[ERROR] 2022-02-21 21:57:12.416 [main] TC01OpenFacebook - Verification Failed - An incorrect title is displayed on the web page.
+[INFO ] 2022-02-21 21:57:12.675 [main] TC03LoginPage - Enter the email.
+[INFO ] 2022-02-21 21:57:12.862 [main] TC03LoginPage - Enter the password.
+[INFO ] 2022-02-21 21:57:12.952 [main] TC03LoginPage - Click Login
+[INFO ] 2022-02-21 21:57:12.957 [main] TC03LoginPage - Verify URL
+[INFO ] 2022-02-21 21:57:40.692 [main] TC03LoginPage - Open URL
+[ERROR] 2022-02-21 21:57:40.703 [main] TC03LoginPage - Verification Failed - An incorrect title is displayed on the web page.
+[INFO ] 2022-02-21 22:01:25.660 [main] TC01OpenFacebook - Verify URL
+[INFO ] 2022-02-21 22:01:26.888 [main] TC01OpenFacebook - Open URL
+[ERROR] 2022-02-21 22:01:26.900 [main] TC01OpenFacebook - Verification Failed - An incorrect title is displayed on the web page.
+[INFO ] 2022-02-21 22:01:27.082 [main] TC03LoginPage - Enter the email.
+[INFO ] 2022-02-21 22:01:27.246 [main] TC03LoginPage - Enter the password.
+[INFO ] 2022-02-21 22:01:27.327 [main] TC03LoginPage - Click Login
+[INFO ] 2022-02-21 22:01:27.331 [main] TC03LoginPage - Verify URL
+[INFO ] 2022-02-21 22:01:53.275 [main] TC03LoginPage - Open URL
+[ERROR] 2022-02-21 22:01:53.287 [main] TC03LoginPage - Verification Failed - An incorrect title is displayed on the web page.
+[INFO ] 2022-02-21 22:06:29.228 [main] TC01OpenFacebook - Verify URL
+[INFO ] 2022-02-21 22:06:30.600 [main] TC01OpenFacebook - Open URL
+[ERROR] 2022-02-21 22:06:30.611 [main] TC01OpenFacebook - Verification Failed - An incorrect title is displayed on the web page.
+[INFO ] 2022-02-21 22:06:30.811 [main] TC03LoginPage - Enter the email.
+[INFO ] 2022-02-21 22:06:31.003 [main] TC03LoginPage - Enter the password.
+[INFO ] 2022-02-21 22:06:31.107 [main] TC03LoginPage - Click Login
+[INFO ] 2022-02-21 22:06:31.112 [main] TC03LoginPage - Verify URL
+[INFO ] 2022-02-21 22:06:59.125 [main] TC03LoginPage - Open URL
+[ERROR] 2022-02-21 22:06:59.134 [main] TC03LoginPage - Verification Failed - An incorrect title is displayed on the web page.

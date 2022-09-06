@@ -1,0 +1,18 @@
+[INFO ] 2022-02-22 18:21:41.763 [main] TC01OpenFacebook - Verify URL
+[INFO ] 2022-02-22 18:21:44.580 [main] TC01OpenFacebook - Open URL
+[ERROR] 2022-02-22 18:21:44.588 [main] TC01OpenFacebook - Verification Failed - An incorrect title is displayed on the web page.
+[INFO ] 2022-02-22 18:21:44.832 [main] TC03LoginPage - Enter the email.
+[INFO ] 2022-02-22 18:21:45.003 [main] TC03LoginPage - Enter the password.
+[INFO ] 2022-02-22 18:21:45.100 [main] TC03LoginPage - Click Login
+[INFO ] 2022-02-22 18:21:45.108 [main] TC03LoginPage - Verify URL
+[INFO ] 2022-02-22 18:22:04.084 [main] TC03LoginPage - Open URL
+[ERROR] 2022-02-22 18:22:04.116 [main] TC03LoginPage - Verification Failed - An incorrect title is displayed on the web page.
+[INFO ] 2022-02-22 18:29:39.297 [main] TC01OpenFacebook - Verify URL
+[INFO ] 2022-02-22 18:29:41.905 [main] TC01OpenFacebook - Open URL
+[ERROR] 2022-02-22 18:29:41.921 [main] TC01OpenFacebook - Verification Failed - An incorrect title is displayed on the web page.
+[INFO ] 2022-02-22 18:29:42.090 [main] TC03LoginPage - Enter the email.
+[INFO ] 2022-02-22 18:29:42.285 [main] TC03LoginPage - Enter the password.
+[INFO ] 2022-02-22 18:29:42.377 [main] TC03LoginPage - Click Login
+[INFO ] 2022-02-22 18:29:42.377 [main] TC03LoginPage - Verify URL
+[INFO ] 2022-02-22 18:30:01.807 [main] TC03LoginPage - Open URL
+[ERROR] 2022-02-22 18:30:01.838 [main] TC03LoginPage - Verification Failed - An incorrect title is displayed on the web page.
